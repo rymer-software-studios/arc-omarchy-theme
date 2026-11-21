@@ -26,6 +26,10 @@ Four backgrounds ship with the theme. Cycle through them with `omarchy theme bg 
 Delete the files you don't want from `backgrounds/` (or from
 `~/.config/omarchy/themes/arc-blueprint/backgrounds/` after installing).
 
+## Lock screen
+
+`unlock.png` is the "ARC DIGITAL" wordmark shown on the lock screen; `preview-unlock.png` is a mockup of it.
+
 ## Palette
 
 | Role | Hex |
