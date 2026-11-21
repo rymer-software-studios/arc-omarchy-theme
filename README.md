@@ -1,6 +1,6 @@
 # Arc Blueprint for Omarchy
 
-A dark, blueprint-style [Omarchy](https://omarchy.org/) theme from Rymer Software Studios.
+A dark, blueprint-style [Omarchy](https://omarchy.org/) theme from Arc Digital.
 Near-black surfaces, a dot grid, and the Arc palette: red, yellow and blue on warm neutrals.
 
 ![Arc Blueprint preview](preview.png)
