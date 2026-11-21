@@ -9,8 +9,10 @@ Near-black surfaces, a dot grid, and the Arc palette: red, yellow and blue on wa
 
 ```bash
 omarchy theme install https://github.com/rymer-software-studios/arc-omarchy-theme.git
-omarchy theme set "Arc Blueprint"
 ```
+
+The install applies the theme straight away. Omarchy names it after the repo, so it appears
+as **Arc Omarchy** in the theme list; switch back to it later with `omarchy theme set "Arc Omarchy"`.
 
 ## Backgrounds
 
