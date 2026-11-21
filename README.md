@@ -1,9 +1,9 @@
-# Arc Blueprint for Omarchy
+# Arc Omarchy
 
 A dark, blueprint-style [Omarchy](https://omarchy.org/) theme from Arc Digital.
 Near-black surfaces, a dot grid, and the Arc palette: red, yellow and blue on warm neutrals.
 
-![Arc Blueprint preview](preview.png)
+![Arc Omarchy preview](preview.png)
 
 ## Install
 
@@ -26,7 +26,7 @@ Four backgrounds ship with the theme. Cycle through them with `omarchy theme bg 
 | `4-arc-digital.png` | Static "ARC DIGITAL" frame |
 
 Delete the files you don't want from `backgrounds/` (or from
-`~/.config/omarchy/themes/arc-blueprint/backgrounds/` after installing).
+`~/.config/omarchy/themes/arc-omarchy/backgrounds/` after installing).
 
 ## Lock screen
 
