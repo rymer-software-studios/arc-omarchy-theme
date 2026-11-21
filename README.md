@@ -47,3 +47,7 @@ and app configs from it.
 ## Credits
 
 Backgrounds are set in [IBM Plex Mono](https://github.com/IBM/plex) (SIL Open Font License 1.1).
+
+## License
+
+[MIT](LICENSE)
